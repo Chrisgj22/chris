@@ -27,6 +27,11 @@ nav a{
     padding: 0 1.5rem;
 
 }
+
+nav a:hover{
+    text-decoration: underline;
+    text-underline-offset: .5rem;
+}
 .hero{
     background: #fdcc04;
 
